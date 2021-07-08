@@ -1,3 +1,5 @@
+# NuxtJS + NestJS + DataStax
+
 Technologies used on a live stream
 
 Read and write data using
