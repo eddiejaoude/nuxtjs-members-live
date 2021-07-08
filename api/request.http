@@ -1,0 +1,8 @@
+POST http://localhost:3001/members
+Content-Type: application/json
+
+{
+  "name": "Maya",
+  "location": "Israel",
+  "github": "mayashavin"
+}
